@@ -1,0 +1,36 @@
+# ==============================================================================
+# ARCHIVOS IGNORADOS - AXIS ERP
+# ==============================================================================
+
+# Binarios y ejecutables
+bin/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Dependencias de Go y Rust
+vendor/
+target/
+go.sum
+
+# Inteligencia Artificial (Python)
+__pycache__/
+*.pyc
+.venv/
+.python-version
+.ipynb_checkpoints/
+
+# Archivos temporales de Neovim y Sistema
+*.swp
+*.swo
+.netrwhist
+undo/
+.DS_Store
+
+# Configuración local sensible
+.env
+.env.local
+--------------------------------------------------------------------------------
+

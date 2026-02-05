@@ -1,0 +1,19 @@
+# <tipo>: <resumen en max 50 caract.>
+#
+# [Cuerpo: Explicación detallada de qué y por qué]
+#
+# --- EJEMPLO ---
+# feat: implementar conexión base con la API de Gemini
+#
+# Se añade el cliente de Python para interactuar con el modelo
+# pro-1.5. Esto permitirá que el módulo de IA del ERP
+# procese descripciones de productos automáticamente.
+#
+# --- TIPOS PERMITIDOS ---
+# feat:     Nueva funcionalidad
+# fix:      Corrección de errores
+# docs:     Cambios en documentación
+# style:    Formato (espacios, puntos y comas...)
+# refactor: Mejora de código sin cambiar funcionalidad
+# test:     Añadir o corregir pruebas
+# chore:    Tareas de mantenimiento (configuración, build)
